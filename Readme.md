@@ -1,11 +1,15 @@
 
 ☘️ Terimakasih kepada                                
 Allah Swt
-Kedua Orangtua Saya                     
+
+Kedua Orangtua Saya  
+                   
 Pengguna Yang Selalu Support
+
 ErerexId
 
 📝 Credit : Lenwy
+
 🥇 Pengembang : (Nama Kalian)
 
 📣 Salam Hangat
