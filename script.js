@@ -35,7 +35,7 @@ function appendTypingBubble() {
 
 async function fetchAIResponse(message, typingBubble) {
     try {
-        const response = await fetch(`https://api-lenwy.vercel.app/lenai?text=${encodeURIComponent(message)}`);
+        const response = await fetch(`https://api-lenwy.vercel.app/lenwyai?text=${encodeURIComponent(message)}`);
         const data = await response.json();
 
         // Setelah LenwyLD
